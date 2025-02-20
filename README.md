@@ -40,3 +40,6 @@ void loop() {
 }
 
 # output of task 2
+![Image](https://github.com/user-attachments/assets/1c4a028a-a76f-4760-a97e-41e203df5444)
+
+![Image](https://github.com/user-attachments/assets/2d36ed3e-7c8e-42ac-af1b-668c6d82bdb4)
